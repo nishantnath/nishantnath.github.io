@@ -325,7 +325,7 @@ h6{
     margin-left: -30px;
     border-radius: 50%;
     border: 1px solid #ccc;
-    animation: spinner .6s linear infinite;
+    animation: spinner .5s linear infinite;
 }
 
 .spinner:after{
